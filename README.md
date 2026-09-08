@@ -122,11 +122,11 @@ Nginx Proxy Manager routes the local `pihole.home` domain to the Pi-hole backend
 
 ## Screenshots
 
-- ✅ `screenshots/pihole-dashboard-blockrate.png` — Pi-hole dashboard and before/after block-rate test
-- ✅ `screenshots/pihole-query-log.png` — Live query log with real blocked/allowed traffic
-- ✅ `screenshots/unbound-dig-test.png` — dig test confirming Unbound's recursive resolution
-- ✅ `screenshots/unbound-config-file.png` — Unbound configuration on the LXC
-- ✅ `screenshots/npm-proxy-hosts.png` — Nginx Proxy Manager routing `pihole.home` to the Pi-hole backend
+-  `screenshots/pihole-dashboard-blockrate.png` — Pi-hole dashboard and before/after block-rate test
+-  `screenshots/pihole-query-log.png` — Live query log with real blocked/allowed traffic
+-  `screenshots/unbound-dig-test.png` — dig test confirming Unbound's recursive resolution
+-  `screenshots/unbound-config-file.png` — Unbound configuration on the LXC
+-  `screenshots/npm-proxy-hosts.png` — Nginx Proxy Manager routing `pihole.home` to the Pi-hole backend
 
 ## Key Takeaways
 
